@@ -1,0 +1,40 @@
+name: cordone
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #PLUGINS
+  lottie: ^1.0.0
+  flutter_colorpicker: ^1.0.3
+  camera: ^0.10.5+9
+  webview_flutter: ^2.5.0
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/img/cordone1.jpeg
+    - assets/img/cordone2.jpeg
+    - assets/img/cordone2.png
