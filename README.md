@@ -1,6 +1,6 @@
 # Cordone
 
-Projeto feito com WebView em Flutter para Cordone.
+Projeto feito em Flutter para Cordone.
 
 
 ![Screenshot_20240422_202456](https://github.com/cairoliima/Cordone/assets/97414648/e54fa3d3-7137-449e-8781-e1b150d54bc0)
